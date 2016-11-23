@@ -1670,7 +1670,7 @@
     {
       "Code" : "CN",
       "ARTarget" : "flag_china",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1678,9 +1678,9 @@
           "Item" : "Capital"
         },
         {
-          "Type" : "Nation",
-          "Code" : "CA",
-          "Item" : "Map"
+          "Type" : "Bonus",
+          "Code" : "P04",
+          "Item" : ""
         },
         {
           "Type" : "Nation",
