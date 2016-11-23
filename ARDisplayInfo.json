@@ -1,7 +1,7 @@
 ﻿{
   "Nation" : [
     {
-      "Code" : "KR",      
+      "Code" : "KR",
       "AnimalTitle" : "호랑이",
       "Animal" : "animal_korea.png",
       "CapitalTitle" : "서울",
@@ -12,8 +12,8 @@
       "Flower" : "flower_korea.png",
       "MapTitle" : "",
       "Map" : "map_korea.png",
-      "MiraeassetTitle" : "미래에셋자산운용",
-      "Miraeasset" : "miraeasset_korea.png"
+      "MiraeassetTitle" : "포시즌스 호텔",
+      "Miraeasset" : "miraeasset_korea.JPG"
     },
     {
       "Code" : "US",
@@ -27,8 +27,8 @@
       "Flower" : "flower_usa.png",
       "MapTitle" : "",
       "Map" : "map_usa.png",
-      "MiraeassetTitle" : "미래에셋증권",
-      "Miraeasset" : "miraeasset_usa.png"
+      "MiraeassetTitle" : "미래에셋 워싱턴 D.C.",
+      "Miraeasset" : "miraeasset_usa.JPG"
     },
     {
       "Code" : "CO",
@@ -147,7 +147,7 @@
       "Flower" : "flower_china.png",
       "MapTitle" : "",
       "Map" : "map_china.png",
-      "MiraeassetTitle" : "미래에셋금융서비스",
+      "MiraeassetTitle" : "미래에셋상해타워",
       "Miraeasset" : "miraeasset_china.png"
     },
     {
@@ -215,7 +215,7 @@
       "AnimalTitle" : "",
       "Animal" : "",
       "CapitalTitle" : "타이베이",
-      "Capital" : "capital_taiwan.png",      
+      "Capital" : "capital_taiwan.png",
       "CurrencyTitle" : "신 타이완 달러",
       "Currency" : "currency_taiwan.png",
       "FlowerTitle" : "매화",
@@ -231,7 +231,7 @@
       "Animal" : "animal_russia.png",
       "CapitalTitle" : "모스크바",
       "Capital" : "capital_russia.png",
-      "CurrencyTitle" : "루블",        
+      "CurrencyTitle" : "루블",
       "Currency" : "currency_russia.png",
       "FlowerTitle" : "해바라기",
       "Flower" : "flower_russia.png",
