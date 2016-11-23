@@ -3128,9 +3128,9 @@
           "Item" : "Animal"
         },
         {
-          "Type" : "Bonus",
-          "Code" : "P02",
-          "Item" : ""
+          "Type" : "Nation",
+          "Code" : "AU",
+          "Item" : "Animal"
         },
         {
           "Type" : "Nation",
@@ -3177,9 +3177,9 @@
       "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
-          "Type" : "Bonus",
-          "Code" : "P01",
-          "Item" : ""
+          "Type" : "Nation",
+          "Code" : "AU",
+          "Item" : "Animal"
         },
         {
           "Type" : "Nation",
