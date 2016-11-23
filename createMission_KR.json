@@ -1,8 +1,9 @@
 {
-  "Name" : "B02",
-  "NationCode" : "CL",
+  "Name" : "A02",
+  "NationCode" : "KR",
   "Contents" : [
     {
+      "Code" : "PE",
       "ARTarget" : "city_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -23,7 +24,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -34,13 +35,14 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "gdp_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
           "Code" : "MN",
-          "Item" : "Capital"
+          "Item" : "Flower"
         },
         {
           "Type" : "Nation",
@@ -54,7 +56,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -65,6 +67,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "flag_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -85,7 +88,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -96,6 +99,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "people_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -116,7 +120,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -127,6 +131,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "population_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -147,7 +152,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -158,17 +163,18 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "city_chile",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
-        {
-          "Type" : "Bonus",
-          "Code" : "P05",
-          "Item" : ""
-        },
         {
           "Type" : "Nation",
           "Code" : "CL",
+          "Item" : "Flower"
+        },
+        {
+          "Type" : "Nation",
+          "Code" : "MN",
           "Item" : "Capital"
         },
         {
@@ -178,7 +184,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -189,6 +195,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "gdp_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -209,7 +216,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -220,6 +227,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "flag_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -229,9 +237,9 @@
           "Item" : "Capital"
         },
         {
-          "Type" : "Bonus",
-          "Code" : "P04",
-          "Item" : ""
+          "Type" : "Nation",
+          "Code" : "CA",
+          "Item" : "Miraeasset"
         },
         {
           "Type" : "Nation",
@@ -240,7 +248,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -251,8 +259,9 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "people_chile",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -271,7 +280,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -282,8 +291,9 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "population_chile",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -302,7 +312,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -313,12 +323,13 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "city_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -333,7 +344,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -344,6 +355,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "gdp_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -359,12 +371,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -375,6 +387,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "flag_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -390,12 +403,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -406,6 +419,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "people_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -421,12 +435,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -437,8 +451,9 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "population_germany",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -452,12 +467,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -468,12 +483,13 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "city_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -488,7 +504,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -499,6 +515,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "gdp_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -514,12 +531,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -530,6 +547,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "flag_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -545,12 +563,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -561,6 +579,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "people_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -576,12 +595,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -592,6 +611,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "population_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -607,12 +627,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -623,12 +643,13 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "city_russia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -643,7 +664,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -654,6 +675,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "gdp_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -669,12 +691,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -685,8 +707,9 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "flag_russia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -700,12 +723,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -716,6 +739,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "people_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -731,12 +755,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -747,6 +771,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "population_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -762,12 +787,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -778,12 +803,13 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "city_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -798,7 +824,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -809,6 +835,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "gdp_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -824,12 +851,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -840,6 +867,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "flag_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -855,12 +883,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -871,6 +899,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "people_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -886,12 +915,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -902,6 +931,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "population_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -917,12 +947,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -933,12 +963,13 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "city_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -953,7 +984,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -964,6 +995,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "gdp_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -979,12 +1011,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -995,6 +1027,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "flag_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1010,12 +1043,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1026,6 +1059,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "people_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1041,12 +1075,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1057,6 +1091,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "population_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1072,12 +1107,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1088,12 +1123,13 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "city_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -1108,7 +1144,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1119,6 +1155,7 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "gdp_canada",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1134,12 +1171,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1150,6 +1187,7 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "flag_canada",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1165,12 +1203,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1181,8 +1219,9 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "people_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1196,12 +1235,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1212,8 +1251,9 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "population_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1227,12 +1267,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1243,12 +1283,13 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "city_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -1263,7 +1304,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1274,8 +1315,9 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "gdp_australia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1289,12 +1331,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1305,6 +1347,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "flag_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1320,12 +1363,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1336,6 +1379,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "people_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1351,12 +1395,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1367,6 +1411,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "population_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1382,12 +1427,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1398,12 +1443,13 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "city_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -1418,7 +1464,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1429,6 +1475,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "gdp_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1444,12 +1491,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1460,6 +1507,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "flag_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1475,12 +1523,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1491,6 +1539,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "people_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1506,12 +1555,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1522,6 +1571,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "population_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1537,12 +1587,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1553,12 +1603,13 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "city_china",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -1573,7 +1624,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1584,8 +1635,9 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "gdp_china",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1599,12 +1651,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1615,6 +1667,7 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "flag_china",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1630,12 +1683,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1646,6 +1699,7 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "people_china",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1661,12 +1715,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1677,6 +1731,7 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "population_china",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1692,12 +1747,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1708,12 +1763,13 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "city_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -1728,7 +1784,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1739,6 +1795,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "gdp_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1754,12 +1811,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1770,6 +1827,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "flag_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1785,12 +1843,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1801,6 +1859,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "people_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1816,12 +1875,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1832,6 +1891,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "population_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1847,12 +1907,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1863,12 +1923,13 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "city_brazil",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -1883,7 +1944,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1894,8 +1955,9 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "gdp_brazil",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1909,12 +1971,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1925,6 +1987,7 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "flag_brazil",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1940,12 +2003,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1956,6 +2019,7 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "people_brazil",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1971,12 +2035,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -1987,6 +2051,7 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "population_brazil",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2002,12 +2067,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2018,12 +2083,13 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "city_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -2038,7 +2104,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2049,6 +2115,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "gdp_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2064,12 +2131,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2080,8 +2147,9 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "flag_singapore",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2095,12 +2163,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2111,6 +2179,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "people_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2126,12 +2195,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2142,6 +2211,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "population_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2157,12 +2227,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2173,12 +2243,13 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "city_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -2193,7 +2264,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2204,6 +2275,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "gdp_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2219,12 +2291,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2235,6 +2307,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "flag_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2250,12 +2323,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2266,6 +2339,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "people_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2281,12 +2355,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2297,6 +2371,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "population_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2312,12 +2387,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2328,12 +2403,13 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "city_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -2348,7 +2424,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2359,6 +2435,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "gdp_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2374,12 +2451,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2390,6 +2467,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "flag_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2405,12 +2483,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2421,6 +2499,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "people_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2436,12 +2515,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2452,6 +2531,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "population_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2467,12 +2547,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2483,12 +2563,13 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "city_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -2503,7 +2584,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2514,8 +2595,9 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "gdp_mongolia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2529,12 +2611,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2545,6 +2627,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "flag_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2560,12 +2643,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2576,6 +2659,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "people_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2591,12 +2675,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2607,6 +2691,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "population_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2622,12 +2707,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2638,12 +2723,13 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "city_columbia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -2658,7 +2744,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2669,6 +2755,7 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "gdp_columbia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2684,12 +2771,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2700,6 +2787,7 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "flag_columbia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2715,12 +2803,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2731,8 +2819,9 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "people_columbia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2746,12 +2835,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2762,8 +2851,9 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "population_columbia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2777,12 +2867,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2793,12 +2883,13 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "city_usa",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Flower"
         },
         {
@@ -2813,7 +2904,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2824,6 +2915,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "gdp_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2839,12 +2931,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2855,6 +2947,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "flag_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2870,12 +2963,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2886,6 +2979,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "people_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2901,12 +2995,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2917,6 +3011,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "population_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2932,12 +3027,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2948,12 +3043,13 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "city_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "KR",
           "Item" : "Flower"
         },
         {
@@ -2968,7 +3064,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -2979,8 +3075,9 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "gdp_korea",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2994,12 +3091,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "KR",
           "Item" : "Capital"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {
@@ -3010,12 +3107,13 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "flag_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
           "Type" : "Nation",
-          "Code" : "MN",
+          "Code" : "KR",
           "Item" : "Capital"
         },
         {
@@ -3025,13 +3123,13 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Animal"
         },
         {
-          "Type" : "Nation",
-          "Code" : "KR",
-          "Item" : "Animal"
+          "Type" : "Bonus",
+          "Code" : "P02",
+          "Item" : ""
         },
         {
           "Type" : "Nation",
@@ -3041,6 +3139,7 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "people_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -3056,7 +3155,7 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "CL",
           "Item" : "Currency"
         },
         {
@@ -3072,13 +3171,14 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "population_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
-          "Type" : "Nation",
-          "Code" : "MN",
-          "Item" : "Capital"
+          "Type" : "Bonus",
+          "Code" : "P01",
+          "Item" : ""
         },
         {
           "Type" : "Nation",
@@ -3087,12 +3187,12 @@
         },
         {
           "Type" : "Nation",
-          "Code" : "DE",
+          "Code" : "KR",
           "Item" : "Map"
         },
         {
           "Type" : "Nation",
-          "Code" : "KR",
+          "Code" : "CO",
           "Item" : "Animal"
         },
         {

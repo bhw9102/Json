@@ -1,5 +1,5 @@
 {
-  "Name" : "B01",
+  "Name" : "A01",
   "NationCode" : "PE",
   "Contents" : [
     {
@@ -165,7 +165,7 @@
     {
       "Code" : "CL",
       "ARTarget" : "city_chile",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -261,7 +261,7 @@
     {
       "Code" : "CL",
       "ARTarget" : "people_chile",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -293,7 +293,7 @@
     {
       "Code" : "CL",
       "ARTarget" : "population_chile",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -453,7 +453,7 @@
     {
       "Code" : "DE",
       "ARTarget" : "population_germany",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -645,7 +645,7 @@
     {
       "Code" : "RU",
       "ARTarget" : "city_russia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -709,7 +709,7 @@
     {
       "Code" : "RU",
       "ARTarget" : "flag_russia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -995,6 +995,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "gdp_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1026,6 +1027,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "flag_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1057,6 +1059,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "people_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1088,6 +1091,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "population_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1119,8 +1123,9 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "city_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1150,6 +1155,7 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "gdp_canada",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1181,6 +1187,7 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "flag_canada",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1212,8 +1219,9 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "people_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1243,8 +1251,9 @@
       ]
     },
     {
+      "Code" : "CA",
       "ARTarget" : "population_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1274,6 +1283,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "city_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1305,8 +1315,9 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "gdp_australia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1336,6 +1347,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "flag_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1367,6 +1379,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "people_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1398,6 +1411,7 @@
       ]
     },
     {
+      "Code" : "AU",
       "ARTarget" : "population_australia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1429,6 +1443,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "city_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1460,6 +1475,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "gdp_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1491,6 +1507,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "flag_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1522,6 +1539,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "people_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1553,6 +1571,7 @@
       ]
     },
     {
+      "Code" : "GB",
       "ARTarget" : "population_uk",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1584,8 +1603,9 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "city_china",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1615,8 +1635,9 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "gdp_china",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1646,6 +1667,7 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "flag_china",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1677,6 +1699,7 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "people_china",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1708,6 +1731,7 @@
       ]
     },
     {
+      "Code" : "CN",
       "ARTarget" : "population_china",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1739,6 +1763,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "city_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1770,6 +1795,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "gdp_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1801,6 +1827,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "flag_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1832,6 +1859,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "people_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1863,6 +1891,7 @@
       ]
     },
     {
+      "Code" : "HK",
       "ARTarget" : "population_hongkong",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1894,8 +1923,9 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "city_brazil",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1925,8 +1955,9 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "gdp_brazil",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1956,6 +1987,7 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "flag_brazil",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -1987,6 +2019,7 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "people_brazil",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2018,6 +2051,7 @@
       ]
     },
     {
+      "Code" : "BR",
       "ARTarget" : "population_brazil",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2049,6 +2083,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "city_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2080,6 +2115,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "gdp_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2111,8 +2147,9 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "flag_singapore",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2142,6 +2179,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "people_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2173,6 +2211,7 @@
       ]
     },
     {
+      "Code" : "SG",
       "ARTarget" : "population_singapore",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2204,6 +2243,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "city_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2235,6 +2275,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "gdp_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2266,6 +2307,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "flag_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2297,6 +2339,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "people_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2328,6 +2371,7 @@
       ]
     },
     {
+      "Code" : "MY",
       "ARTarget" : "population_malaysia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2359,6 +2403,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "city_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2390,6 +2435,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "gdp_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2421,6 +2467,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "flag_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2452,6 +2499,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "people_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2483,6 +2531,7 @@
       ]
     },
     {
+      "Code" : "VN",
       "ARTarget" : "population_vietnam",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2514,6 +2563,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "city_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2545,8 +2595,9 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "gdp_mongolia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2576,6 +2627,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "flag_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2607,6 +2659,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "people_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2638,6 +2691,7 @@
       ]
     },
     {
+      "Code" : "MN",
       "ARTarget" : "population_mongolia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2669,6 +2723,7 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "city_columbia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2700,6 +2755,7 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "gdp_columbia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2731,6 +2787,7 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "flag_columbia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2762,8 +2819,9 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "people_columbia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2793,8 +2851,9 @@
       ]
     },
     {
+      "Code" : "CO",
       "ARTarget" : "population_columbia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2824,8 +2883,9 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "city_usa",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2855,6 +2915,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "gdp_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2886,6 +2947,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "flag_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2917,6 +2979,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "people_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2948,6 +3011,7 @@
       ]
     },
     {
+      "Code" : "US",
       "ARTarget" : "population_usa",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -2979,6 +3043,7 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "city_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -3010,8 +3075,9 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "gdp_korea",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_TurnAround_A",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -3041,6 +3107,7 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "flag_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -3072,6 +3139,7 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "people_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -3103,6 +3171,7 @@
       ]
     },
     {
+      "Code" : "KR",
       "ARTarget" : "population_korea",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
