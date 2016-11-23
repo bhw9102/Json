@@ -1190,12 +1190,12 @@
     {
       "Code" : "CA",
       "ARTarget" : "flag_canada",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
-          "Type" : "Nation",
-          "Code" : "MN",
-          "Item" : "Capital"
+          "Type" : "Bonus",
+          "Code" : "P05",
+          "Item" : ""
         },
         {
           "Type" : "Nation",
