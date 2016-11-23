@@ -1,11 +1,12 @@
 {
-  "Name" : "A02",
+  "Name" : "A01",
   "NationCode" : "KR",
+  "SolutionCount" : 3,
   "Contents" : [
     {
       "Code" : "PE",
       "ARTarget" : "city_peru",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -20,7 +21,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -37,7 +38,7 @@
     {
       "Code" : "PE",
       "ARTarget" : "gdp_peru",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -47,7 +48,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -69,7 +70,7 @@
     {
       "Code" : "PE",
       "ARTarget" : "flag_peru",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -79,7 +80,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -101,7 +102,7 @@
     {
       "Code" : "PE",
       "ARTarget" : "people_peru",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -111,7 +112,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -133,7 +134,7 @@
     {
       "Code" : "PE",
       "ARTarget" : "population_peru",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -143,7 +144,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -180,7 +181,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -207,7 +208,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -239,7 +240,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -271,7 +272,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -303,7 +304,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -340,7 +341,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -357,7 +358,7 @@
     {
       "Code" : "DE",
       "ARTarget" : "gdp_germany",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -367,7 +368,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -389,7 +390,7 @@
     {
       "Code" : "DE",
       "ARTarget" : "flag_germany",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -399,7 +400,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -421,7 +422,7 @@
     {
       "Code" : "DE",
       "ARTarget" : "people_germany",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -431,7 +432,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -463,7 +464,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -485,7 +486,7 @@
     {
       "Code" : "ZA",
       "ARTarget" : "city_southafrica",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -500,7 +501,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -517,7 +518,7 @@
     {
       "Code" : "ZA",
       "ARTarget" : "gdp_southafrica",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -527,7 +528,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -549,7 +550,7 @@
     {
       "Code" : "ZA",
       "ARTarget" : "flag_southafrica",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -559,7 +560,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -581,7 +582,7 @@
     {
       "Code" : "ZA",
       "ARTarget" : "people_southafrica",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -591,7 +592,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -623,7 +624,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -660,7 +661,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -687,7 +688,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -719,7 +720,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -741,7 +742,7 @@
     {
       "Code" : "RU",
       "ARTarget" : "people_russia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -751,7 +752,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -773,7 +774,7 @@
     {
       "Code" : "RU",
       "ARTarget" : "population_russia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -783,7 +784,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -805,7 +806,7 @@
     {
       "Code" : "TW",
       "ARTarget" : "city_taiwan",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -820,7 +821,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -837,7 +838,7 @@
     {
       "Code" : "TW",
       "ARTarget" : "gdp_taiwan",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -847,7 +848,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -869,7 +870,7 @@
     {
       "Code" : "TW",
       "ARTarget" : "flag_taiwan",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -879,7 +880,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -901,7 +902,7 @@
     {
       "Code" : "TW",
       "ARTarget" : "people_taiwan",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -911,7 +912,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -933,7 +934,7 @@
     {
       "Code" : "TW",
       "ARTarget" : "population_taiwan",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -943,7 +944,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -980,7 +981,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1007,7 +1008,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1039,7 +1040,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1071,7 +1072,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1103,7 +1104,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1140,7 +1141,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1167,7 +1168,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1199,7 +1200,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1231,7 +1232,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1263,7 +1264,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1285,7 +1286,7 @@
     {
       "Code" : "AU",
       "ARTarget" : "city_australia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1300,7 +1301,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1327,7 +1328,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1349,7 +1350,7 @@
     {
       "Code" : "AU",
       "ARTarget" : "flag_australia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1359,7 +1360,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1381,7 +1382,7 @@
     {
       "Code" : "AU",
       "ARTarget" : "people_australia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1391,7 +1392,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1413,7 +1414,7 @@
     {
       "Code" : "AU",
       "ARTarget" : "population_australia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1423,7 +1424,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1445,7 +1446,7 @@
     {
       "Code" : "GB",
       "ARTarget" : "city_uk",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1460,7 +1461,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1477,7 +1478,7 @@
     {
       "Code" : "GB",
       "ARTarget" : "gdp_uk",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1487,7 +1488,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1509,7 +1510,7 @@
     {
       "Code" : "GB",
       "ARTarget" : "flag_uk",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1519,7 +1520,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1541,7 +1542,7 @@
     {
       "Code" : "GB",
       "ARTarget" : "people_uk",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1551,7 +1552,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1573,7 +1574,7 @@
     {
       "Code" : "GB",
       "ARTarget" : "population_uk",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1583,7 +1584,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1620,7 +1621,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1647,7 +1648,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1679,7 +1680,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1711,7 +1712,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1733,7 +1734,7 @@
     {
       "Code" : "CN",
       "ARTarget" : "population_china",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1743,7 +1744,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1765,7 +1766,7 @@
     {
       "Code" : "HK",
       "ARTarget" : "city_hongkong",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1780,7 +1781,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1797,7 +1798,7 @@
     {
       "Code" : "HK",
       "ARTarget" : "gdp_hongkong",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1807,7 +1808,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1829,7 +1830,7 @@
     {
       "Code" : "HK",
       "ARTarget" : "flag_hongkong",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1839,7 +1840,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1861,7 +1862,7 @@
     {
       "Code" : "HK",
       "ARTarget" : "people_hongkong",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1871,7 +1872,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1893,7 +1894,7 @@
     {
       "Code" : "HK",
       "ARTarget" : "population_hongkong",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1903,7 +1904,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1940,7 +1941,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1967,7 +1968,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -1989,7 +1990,7 @@
     {
       "Code" : "BR",
       "ARTarget" : "flag_brazil",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -1999,7 +2000,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2031,7 +2032,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2063,7 +2064,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2085,7 +2086,7 @@
     {
       "Code" : "SG",
       "ARTarget" : "city_singapore",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2100,7 +2101,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2117,7 +2118,7 @@
     {
       "Code" : "SG",
       "ARTarget" : "gdp_singapore",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2127,7 +2128,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2159,7 +2160,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2181,7 +2182,7 @@
     {
       "Code" : "SG",
       "ARTarget" : "people_singapore",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2191,7 +2192,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2213,7 +2214,7 @@
     {
       "Code" : "SG",
       "ARTarget" : "population_singapore",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2223,7 +2224,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2245,7 +2246,7 @@
     {
       "Code" : "MY",
       "ARTarget" : "city_malaysia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2260,7 +2261,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2277,7 +2278,7 @@
     {
       "Code" : "MY",
       "ARTarget" : "gdp_malaysia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2287,7 +2288,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2309,7 +2310,7 @@
     {
       "Code" : "MY",
       "ARTarget" : "flag_malaysia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2319,7 +2320,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2341,7 +2342,7 @@
     {
       "Code" : "MY",
       "ARTarget" : "people_malaysia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2351,7 +2352,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2383,7 +2384,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2420,7 +2421,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2447,7 +2448,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2469,7 +2470,7 @@
     {
       "Code" : "VN",
       "ARTarget" : "flag_vietnam",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2479,7 +2480,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2501,7 +2502,7 @@
     {
       "Code" : "VN",
       "ARTarget" : "people_vietnam",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2511,7 +2512,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2533,7 +2534,7 @@
     {
       "Code" : "VN",
       "ARTarget" : "population_vietnam",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2543,7 +2544,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2565,7 +2566,7 @@
     {
       "Code" : "MN",
       "ARTarget" : "city_mongolia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2580,7 +2581,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2607,7 +2608,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2629,7 +2630,7 @@
     {
       "Code" : "MN",
       "ARTarget" : "flag_mongolia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2639,7 +2640,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2661,7 +2662,7 @@
     {
       "Code" : "MN",
       "ARTarget" : "people_mongolia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2671,7 +2672,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2693,7 +2694,7 @@
     {
       "Code" : "MN",
       "ARTarget" : "population_mongolia",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2703,7 +2704,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2740,7 +2741,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2767,7 +2768,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2799,7 +2800,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2831,7 +2832,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2863,7 +2864,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2900,7 +2901,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2917,7 +2918,7 @@
     {
       "Code" : "US",
       "ARTarget" : "gdp_usa",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2927,7 +2928,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2949,7 +2950,7 @@
     {
       "Code" : "US",
       "ARTarget" : "flag_usa",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2959,7 +2960,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -2981,7 +2982,7 @@
     {
       "Code" : "US",
       "ARTarget" : "people_usa",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -2991,7 +2992,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -3013,7 +3014,7 @@
     {
       "Code" : "US",
       "ARTarget" : "population_usa",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -3023,7 +3024,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -3045,7 +3046,7 @@
     {
       "Code" : "KR",
       "ARTarget" : "city_korea",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -3060,7 +3061,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -3087,7 +3088,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -3114,12 +3115,12 @@
         {
           "Type" : "Nation",
           "Code" : "KR",
-          "Item" : "Capital"
+          "Item" : "Animal"
         },
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -3141,7 +3142,7 @@
     {
       "Code" : "KR",
       "ARTarget" : "people_korea",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
@@ -3151,7 +3152,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
@@ -3161,7 +3162,7 @@
         {
           "Type" : "Nation",
           "Code" : "KR",
-          "Item" : "Animal"
+          "Item" : "Miraeasset"
         },
         {
           "Type" : "Nation",
@@ -3173,7 +3174,7 @@
     {
       "Code" : "KR",
       "ARTarget" : "population_korea",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Bonus",
@@ -3183,7 +3184,7 @@
         {
           "Type" : "Nation",
           "Code" : "CA",
-          "Item" : "Miraeasset"
+          "Item" : "Map"
         },
         {
           "Type" : "Nation",
