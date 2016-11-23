@@ -1,6 +1,6 @@
 {
   "Name" : "A03",
-  "NationCode" : "KR",
+  "NationCode" : "US",
   "Contents" : [
     {
       "Code" : "PE",
@@ -2984,9 +2984,9 @@
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
         {
-          "Type" : "Nation",
-          "Code" : "MN",
-          "Item" : "Capital"
+          "Type" : "Bonus",
+          "Code" : "P04",
+          "Item" : ""
         },
         {
           "Type" : "Nation",
@@ -3109,7 +3109,7 @@
     {
       "Code" : "KR",
       "ARTarget" : "flag_korea",
-      "ContentsType" : "AR_SIDE_A",
+      "ContentsType" : "AR_SIDE_B",
       "Choice" : [
         {
           "Type" : "Nation",
