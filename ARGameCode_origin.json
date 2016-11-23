@@ -3,8 +3,9 @@
     {
       "Name" : "A01",
       "NationCode" : "KR",
+      "SolutionCount" : 3,
       "Contents" : [
-        { 
+        {
 		      "Code" : "KR",
           "ARTarget" : "gdp_korea",
           "ContentsType" : "AR_SIDE_A",
