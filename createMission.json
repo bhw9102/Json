@@ -3,6 +3,7 @@
   "NationCode" : "PE",
   "Contents" : [
     {
+      "Code" : "PE",
       "ARTarget" : "city_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -34,6 +35,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "gdp_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -65,6 +67,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "flag_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -96,6 +99,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "people_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -127,6 +131,7 @@
       ]
     },
     {
+      "Code" : "PE",
       "ARTarget" : "population_peru",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -158,6 +163,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "city_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -189,6 +195,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "gdp_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -220,6 +227,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "flag_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -251,6 +259,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "people_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -282,6 +291,7 @@
       ]
     },
     {
+      "Code" : "CL",
       "ARTarget" : "population_chile",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -313,6 +323,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "city_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -344,6 +355,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "gdp_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -375,6 +387,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "flag_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -406,6 +419,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "people_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -437,6 +451,7 @@
       ]
     },
     {
+      "Code" : "DE",
       "ARTarget" : "population_germany",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -468,6 +483,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "city_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -499,6 +515,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "gdp_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -530,6 +547,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "flag_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -561,6 +579,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "people_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -592,6 +611,7 @@
       ]
     },
     {
+      "Code" : "ZA",
       "ARTarget" : "population_southafrica",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -623,6 +643,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "city_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -654,6 +675,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "gdp_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -685,6 +707,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "flag_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -716,6 +739,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "people_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -747,6 +771,7 @@
       ]
     },
     {
+      "Code" : "RU",
       "ARTarget" : "population_russia",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -778,6 +803,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "city_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -809,6 +835,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "gdp_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -840,6 +867,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "flag_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -871,6 +899,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "people_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -902,6 +931,7 @@
       ]
     },
     {
+      "Code" : "TW",
       "ARTarget" : "population_taiwan",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
@@ -933,6 +963,7 @@
       ]
     },
     {
+      "Code" : "IN",
       "ARTarget" : "city_india",
       "ContentsType" : "AR_SIDE_A",
       "Choice" : [
