@@ -1,0 +1,184 @@
+﻿{
+  "ARCodeInfo" : [
+    {
+      "Code" : "KR",
+      "Title" : "한국",
+      "City" : "city_korea",
+      "GDP" : "gdp_korea",
+      "Flag" : "flag_korea",
+      "People" : "people_korea",
+      "Population" : "population_korea"
+    },
+    {
+      "Code" : "US",
+      "Title" : "미국",
+      "City" : "city_usa",
+      "GDP" : "gdp_usa",
+      "Flag" : "flag_usa",
+      "People" : "people_usa",
+      "Population" : "population_usa"
+    },
+    {
+      "Code" : "CO",
+      "Title" : "콜롬비아",
+      "City" : "city_columbia",
+      "GDP" : "gdp_columbia",
+      "Flag" : "flag_columbia",
+      "People" : "people_columbia",
+      "Population" : "population_columbia"
+    },
+    {
+      "Code" : "MN",
+      "Title" : "몽골",
+      "City" : "city_mongolia",
+      "GDP" : "gdp_mongolia",
+      "Flag" : "flag_mongolia",
+      "People" : "people_mongolia",
+      "Population" : "population_mongolia"
+    },
+    {
+      "Code" : "VN",
+      "Title" : "베트남",
+      "City" : "city_vietnam",
+      "GDP" : "gdp_vietnam",
+      "Flag" : "flag_vietnam",
+      "People" : "people_vietnam",
+      "Population" : "population_vietnam"
+    },
+    {
+      "Code" : "MY",
+      "Title" : "말레이시아",
+      "City" : "city_malaysia",
+      "GDP" : "gdp_malaysia",
+      "Flag" : "flag_malaysia",
+      "People" : "people_malaysia",
+      "Population" : "population_malaysia"
+    },
+    {
+      "Code" : "SG",
+      "Title" : "싱가폴",
+      "City" : "city_singapore",
+      "GDP" : "gdp_singapore",
+      "Flag" : "flag_singapore",
+      "People" : "people_singapore",
+      "Population" : "population_singapore"
+    },
+    {
+      "Code" : "BR",
+      "Title" : "브라질",
+      "City" : "city_brazil",
+      "GDP" : "gdp_brazil",
+      "Flag" : "flag_brazil",
+      "People" : "people_brazil",
+      "Population" : "population_brazil"
+    },
+    {
+      "Code" : "HK",
+      "Title" : "홍콩",
+      "City" : "city_hongkong",
+      "GDP" : "gdp_hongkong",
+      "Flag" : "flag_hongkong",
+      "People" : "people_hongkong",
+      "Population" : "population_hongkong"
+    },
+    {
+      "Code" : "CN",
+      "Title" : "중국",
+      "City" : "city_china",
+      "GDP" : "gdp_china",
+      "Flag" : "flag_china",
+      "People" : "people_china",
+      "Population" : "population_china"
+    },
+    {
+      "Code" : "GB",
+      "Title" : "영국",
+      "City" : "city_uk",
+      "GDP" : "gdp_uk",
+      "Flag" : "flag_uk",
+      "People" : "people_uk",
+      "Population" : "population_uk"
+    },
+    {
+      "Code" : "AU",
+      "Title" : "호주",
+      "City" : "city_australia",
+      "GDP" : "gdp_australia",
+      "Flag" : "flag_australia",
+      "People" : "people_australia",
+      "Population" : "population_australia"
+    },
+    {
+      "Code" : "CA",
+      "Title" : "캐나다",
+      "City" : "city_canada",
+      "GDP" : "gdp_canada",
+      "Flag" : "flag_canada",
+      "People" : "people_canada",
+      "Population" : "population_canada"
+    },
+    {
+      "Code" : "IN",
+      "Title" : "인도",
+      "City" : "city_india",
+      "GDP" : "gdp_india",
+      "Flag" : "flag_india",
+      "People" : "people_india",
+      "Population" : "population_india"
+    },
+    {
+      "Code" : "TW",
+      "Title" : "대만",
+      "City" : "city_taiwan",
+      "GDP" : "gdp_taiwan",
+      "Flag" : "flag_taiwan",
+      "People" : "people_taiwan",
+      "Population" : "population_taiwan"
+    },
+    {
+      "Code" : "RU",
+      "Title" : "러시아",
+      "City" : "city_russia",
+      "GDP" : "gdp_russia",
+      "Flag" : "flag_russia",
+      "People" : "people_russia",
+      "Population" : "population_russia"
+    },
+    {
+      "Code" : "ZA",
+      "Title" : "남아프리카공화국",
+      "City" : "city_southafrica",
+      "GDP" : "gdp_southafrica",
+      "Flag" : "flag_southafrica",
+      "People" : "people_southafrica",
+      "Population" : "population_southafrica"
+    },
+    {
+      "Code" : "DE",
+      "Title" : "독일",
+      "City" : "city_germany",
+      "GDP" : "gdp_germany",
+      "Flag" : "flag_germany",
+      "People" : "people_germany",
+      "Population" : "population_germany"
+    },
+    {
+      "Code" : "CL",
+      "Title" : "칠레",
+      "City" : "city_chile",
+      "GDP" : "gdp_chile",
+      "Flag" : "flag_chile",
+      "People" : "people_chile",
+      "Population" : "population_chile"
+    },
+    {
+      "Code" : "PE",
+      "Title" : "페루",
+      "City" : "city_peru",
+      "GDP" : "gdp_peru",
+      "Flag" : "flag_peru",
+      "People" : "people_peru",
+      "Population" : "population_peru"
+    }
+  ]
+}
