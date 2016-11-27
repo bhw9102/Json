@@ -10,7 +10,7 @@
       "Currency" : "currency_korea.png",
       "FlowerTitle" : "무궁화",
       "Flower" : "flower_korea.png",
-      "MapTitle" : "",
+      "MapTitle" : "한국 지도",
       "Map" : "map_korea.png",
       "MiraeassetTitle" : "포시즌스 호텔",
       "Miraeasset" : "miraeasset_korea.JPG"
@@ -25,7 +25,7 @@
       "Currency" : "currency_usa.png",
       "FlowerTitle" : "라즈베리",
       "Flower" : "flower_usa.png",
-      "MapTitle" : "",
+      "MapTitle" : "미국 지도",
       "Map" : "map_usa.png",
       "MiraeassetTitle" : "미래에셋 워싱턴 D.C.",
       "Miraeasset" : "miraeasset_usa.JPG"
@@ -40,7 +40,7 @@
       "Currency" : "currency_columbia.png",
       "FlowerTitle" : "카틀레야",
       "Flower" : "flower_columbia.png",
-      "MapTitle" : "",
+      "MapTitle" : "콜롬비아 지도",
       "Map" : "map_columbia.png",
       "MiraeassetTitle" : "미래에셋대우",
       "Miraeasset" : "miraeasset_columbia.png"
@@ -55,7 +55,7 @@
       "Currency" : "currency_mongolia.png",
       "FlowerTitle" : "연꽃",
       "Flower" : "flower_mongolia.png",
-      "MapTitle" : "",
+      "MapTitle" : "몽골 지도",
       "Map" : "map_mongolia.png",
       "MiraeassetTitle" : "미래에셋생명",
       "Miraeasset" : "miraeasset_mongolia.png"
@@ -70,7 +70,7 @@
       "Currency" : "currency_vietnam.png",
       "FlowerTitle" : "연꽃",
       "Flower" : "flower_vietnam.png",
-      "MapTitle" : "",
+      "MapTitle" : "베트남 지도",
       "Map" : "map_vietnam.png",
       "MiraeassetTitle" : "부동산114",
       "Miraeasset" : "miraeasset_vietnam.png"
@@ -85,7 +85,7 @@
       "Currency" : "currency_malaysia.png",
       "FlowerTitle" : "코코스 야자",
       "Flower" : "flower_malaysia.png",
-      "MapTitle" : "",
+      "MapTitle" : "말리이시아 지도",
       "Map" : "map_malaysia.png",
       "MiraeassetTitle" : "미래에셋캐피탈",
       "Miraeasset" : "miraeasset_malaysia.png"
@@ -100,7 +100,7 @@
       "Currency" : "currency_singapore.png",
       "FlowerTitle" : "난",
       "Flower" : "flower_singapore.png",
-      "MapTitle" : "",
+      "MapTitle" : "싱가폴 지도",
       "Map" : "map_singapore.png",
       "MiraeassetTitle" : "미래에셋벤처투자",
       "Miraeasset" : "miraeasset_singapore.png"
@@ -115,7 +115,7 @@
       "Currency" : "currency_brazil.png",
       "FlowerTitle" : "카틀레아",
       "Flower" : "flower_brazil.png",
-      "MapTitle" : "",
+      "MapTitle" : "브라질 지도",
       "Map" : "map_brazil.png",
       "MiraeassetTitle" : "미래에셋펀드서비스",
       "Miraeasset" : "miraeasset_brazil.png"
@@ -130,7 +130,7 @@
       "Currency" : "currency_hongkong.png",
       "FlowerTitle" : "바우히니아",
       "Flower" : "flower_hongkong.png",
-      "MapTitle" : "",
+      "MapTitle" : "홍콩 지도",
       "Map" : "map_hongkong.png",
       "MiraeassetTitle" : "미래에셋컨설팅",
       "Miraeasset" : "miraeasset_hongkong.png"
@@ -145,7 +145,7 @@
       "Currency" : "currency_china.png",
       "FlowerTitle" : "매화",
       "Flower" : "flower_china.png",
-      "MapTitle" : "",
+      "MapTitle" : "중국 지도",
       "Map" : "map_china.png",
       "MiraeassetTitle" : "미래에셋상해타워",
       "Miraeasset" : "miraeasset_china.JPG"
@@ -160,7 +160,7 @@
       "Currency" : "currency_uk.png",
       "FlowerTitle" : "장미",
       "Flower" : "flower_uk.png",
-      "MapTitle" : "",
+      "MapTitle" : "영국 지도",
       "Map" : "map_uk.png",
       "MiraeassetTitle" : "미래에셋은퇴연구소",
       "Miraeasset" : "miraeasset_uk.png"
@@ -175,7 +175,7 @@
       "Currency" : "currency_australia.png",
       "FlowerTitle" : "아카시아",
       "Flower" : "flower_australia.png",
-      "MapTitle" : "",
+      "MapTitle" : "호주 지도",
       "Map" : "map_australia.png",
       "MiraeassetTitle" : "미래에셋박현주재단",
       "Miraeasset" : "miraeasset_australia.png"
@@ -190,7 +190,7 @@
       "Currency" : "currency_canada.png",
       "FlowerTitle" : "사탕단풍",
       "Flower" : "flower_canada.png",
-      "MapTitle" : "",
+      "MapTitle" : "캐나다 지도",
       "Map" : "map_canada.png",
       "MiraeassetTitle" : "미래에셋파이낸스컴퍼니",
       "Miraeasset" : "miraeasset_canada.png"
@@ -205,7 +205,7 @@
       "Currency" : "currency_india.png",
       "FlowerTitle" : "양귀비",
       "Flower" : "flower_india.png",
-      "MapTitle" : "",
+      "MapTitle" : "인도 지도",
       "Map" : "map_india.png",
       "MiraeassetTitle" : "Horizons ETFs",
       "Miraeasset" : "miraeasset_india.png"
@@ -220,7 +220,7 @@
       "Currency" : "currency_taiwan.png",
       "FlowerTitle" : "매화",
       "Flower" : "flower_taiwan.png",
-      "MapTitle" : "",
+      "MapTitle" : "대만 지도",
       "Map" : "map_taiwan.png",
       "MiraeassetTitle" : "BetaShares",
       "Miraeasset" : "miraeasset_taiwan.png"
@@ -235,7 +235,7 @@
       "Currency" : "currency_russia.png",
       "FlowerTitle" : "해바라기",
       "Flower" : "flower_russia.png",
-      "MapTitle" : "",
+      "MapTitle" : "러시아 지도",
       "Map" : "map_russia.png",
       "MiraeassetTitle" : "TIGER ETF",
       "Miraeasset" : "miraeasset_russia.png"
@@ -250,7 +250,7 @@
       "Currency" : "currency_southafrica.png",
       "FlowerTitle" : "프로테아",
       "Flower" : "flower_southafrica.png",
-      "MapTitle" : "",
+      "MapTitle" : "남아프리카공화국 지도",
       "Map" : "map_southafrica.png",
       "MiraeassetTitle" : "",
       "Miraeasset" : ""
@@ -265,7 +265,7 @@
       "Currency" : "currency_germany.png",
       "FlowerTitle" : "수레국화",
       "Flower" : "flower_germany.png",
-      "MapTitle" : "",
+      "MapTitle" : "독일 지도",
       "Map" : "map_germany.png",
       "MiraeassetTitle" : "",
       "Miraeasset" : ""
@@ -280,7 +280,7 @@
       "Currency" : "currency_chile.png",
       "FlowerTitle" : "동백꽃",
       "Flower" : "flower_chile.png",
-      "MapTitle" : "",
+      "MapTitle" : "칠레 지도",
       "Map" : "map_chile.png",
       "MiraeassetTitle" : "",
       "Miraeasset" : ""
@@ -295,7 +295,7 @@
       "Currency" : "currency_peru.png",
       "FlowerTitle" : "해바라기",
       "Flower" : "flower_peru.png",
-      "MapTitle" : "",
+      "MapTitle" : "페루 지도",
       "Map" : "map_peru.png",
       "MiraeassetTitle" : "",
       "Miraeasset" : ""
