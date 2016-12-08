@@ -1,0 +1,42 @@
+{
+  "GameCode" :[
+    {
+      "Name" : "A01",
+      "NationCode" : "PE",
+      "Contents" : [
+        {
+          "Code" : "PE",
+          "ARTarget" : "city_peru",
+          "ContentsType" : "AR_SIDE_A",
+          "Choice" : [
+            {
+              "Type" : "Nation",
+              "Code" : "PE",
+              "Item" : "Flower"
+            },
+            {
+              "Type" : "Nation",
+              "Code" : "MN",
+              "Item" : "Capital"
+            },
+            {
+              "Type" : "Nation",
+              "Code" : "CA",
+              "Item" : "Miraeasset"
+            },
+            {
+              "Type" : "Nation",
+              "Code" : "KR",
+              "Item" : "Animal"
+            },
+            {
+              "Type" : "Nation",
+              "Code" : "US",
+              "Item" : "Animal"
+            }
+          ]
+        }
+      ]
+    },
+  ]
+}
